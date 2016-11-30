@@ -11,6 +11,4 @@
 
 ### Contributing
 
-Please do!
-
-
+一個有趣的JavaScript playground!
